@@ -74,7 +74,7 @@ body {
   #nav > .header {
     margin-bottom: 10px; }
     #nav > .header > .title {
-      font-size: 45px;
+      font-size: 35px;
       line-height: 53px;
       color: #333;
       font-family: MaturaScriptCapitals; }
@@ -173,13 +173,13 @@ body {
     flex: 1; }
     .project-card > .ctnWrap > .title {
       font-weight: 600;
-      font-size: 28px;
+      font-size: 20px;
       line-height: 40px; }
       .project-card > .ctnWrap > .title:hover {
         opacity: 1;
         color: #f0534e; }
     .project-card > .ctnWrap > .desc {
-      font-size: 16px;
+      font-size: 15px;
       line-height: 30px;
       margin-top: 20px;
       margin-bottom: 15px; }
@@ -231,7 +231,7 @@ body {
   font-size: 16px;
   line-height: 30px; }
   .article > .title {
-    font-size: 28px;
+    font-size: 24px;
     line-height: 40px;
     margin-bottom: 10px;
     font-weight: 600; }
