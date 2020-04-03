@@ -74,7 +74,7 @@ body {
   #nav > .header {
     margin-bottom: 10px; }
     #nav > .header > .title {
-      font-size: 35px;
+      font-size: 33px;
       line-height: 53px;
       color: #333;
       font-family: MaturaScriptCapitals; }
@@ -184,7 +184,7 @@ body {
       margin-top: 20px;
       margin-bottom: 15px; }
     .project-card > .ctnWrap > .sub {
-      font-size: 14px;
+      font-size: 12px;
       line-height: 30px;
       opacity: .4; }
   .project-card.project-card-continuous {
@@ -231,7 +231,7 @@ body {
   font-size: 16px;
   line-height: 30px; }
   .article > .title {
-    font-size: 24px;
+    font-size: 20px;
     line-height: 40px;
     margin-bottom: 10px;
     font-weight: 600; }
@@ -241,7 +241,7 @@ body {
   .article > .content {
     padding-bottom: 64px; }
     .article > .content h1, .article > .content h2, .article > .content h3, .article > .content h4, .article > .content h5 {
-      font-size: 24px;
+      font-size: 20px;
       font-weight: 600;
       line-height: 40px;
       margin-bottom: 15px; }
