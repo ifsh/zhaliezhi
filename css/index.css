@@ -184,9 +184,9 @@ body {
       margin-top: 20px;
       margin-bottom: 15px; }
     .project-card > .ctnWrap > .sub {
-      font-size: 16px;
+      font-size: 14px;
       line-height: 30px;
-      opacity: .5; }
+      opacity: .4; }
   .project-card.project-card-continuous {
     flex-direction: row-reverse;
     margin: 0;
@@ -236,8 +236,8 @@ body {
     margin-bottom: 10px;
     font-weight: 600; }
   .article > .sub {
-    opacity: .5;
-    margin-bottom: 20px; }
+    opacity: .4;
+    margin-bottom: 15px; }
   .article > .content {
     padding-bottom: 64px; }
     .article > .content h1, .article > .content h2, .article > .content h3, .article > .content h4, .article > .content h5 {
