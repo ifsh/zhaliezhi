@@ -237,7 +237,7 @@ body {
     opacity: .4;
     margin-bottom: 15px; }
   .article > .content {
-    padding-bottom: 64px; }
+    padding-bottom: 14px; }
     .article > .content h1, .article > .content h2, .article > .content h3, .article > .content h4, .article > .content h5 {
       font-size: 20px;
       font-weight: 600;
