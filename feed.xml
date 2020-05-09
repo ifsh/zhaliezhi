@@ -10,7 +10,7 @@
   <id>https://zhaliezhi.com/</id>
   
   <author>
-    <name>ZH</name>
+    <name>百里宰</name>
     
   </author>
   
@@ -328,11 +328,11 @@
     
       <category term="好内容月报" scheme="https://zhaliezhi.com/tags/%E5%A5%BD%E5%86%85%E5%AE%B9%E6%9C%88%E6%8A%A5/"/>
     
+      <category term="卡尔维诺" scheme="https://zhaliezhi.com/tags/%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA/"/>
+    
       <category term="缅甸" scheme="https://zhaliezhi.com/tags/%E7%BC%85%E7%94%B8/"/>
     
       <category term="孟加拉" scheme="https://zhaliezhi.com/tags/%E5%AD%9F%E5%8A%A0%E6%8B%89/"/>
-    
-      <category term="卡尔维诺" scheme="https://zhaliezhi.com/tags/%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA/"/>
     
   </entry>
   
@@ -355,9 +355,9 @@
     
       <category term="好内容月报" scheme="https://zhaliezhi.com/tags/%E5%A5%BD%E5%86%85%E5%AE%B9%E6%9C%88%E6%8A%A5/"/>
     
-      <category term="卡尔维诺" scheme="https://zhaliezhi.com/tags/%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA/"/>
-    
       <category term="瞎子" scheme="https://zhaliezhi.com/tags/%E7%9E%8E%E5%AD%90/"/>
+    
+      <category term="卡尔维诺" scheme="https://zhaliezhi.com/tags/%E5%8D%A1%E5%B0%94%E7%BB%B4%E8%AF%BA/"/>
     
   </entry>
   
@@ -434,9 +434,9 @@
     
       <category term="单车" scheme="https://zhaliezhi.com/tags/%E5%8D%95%E8%BD%A6/"/>
     
-      <category term="泰国" scheme="https://zhaliezhi.com/tags/%E6%B3%B0%E5%9B%BD/"/>
-    
       <category term="东南亚" scheme="https://zhaliezhi.com/tags/%E4%B8%9C%E5%8D%97%E4%BA%9A/"/>
+    
+      <category term="泰国" scheme="https://zhaliezhi.com/tags/%E6%B3%B0%E5%9B%BD/"/>
     
   </entry>
   
