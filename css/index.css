@@ -385,7 +385,7 @@ body {
 
 .tagcloud {
   background-color: white;
-  padding: 60px; }
+  padding: 10px; }
   .tagcloud > a {
     display: inline-block;
     padding: 15px; }
