@@ -6,7 +6,7 @@
   <link href="/feed.xml" rel="self"/>
   
   <link href="https://zhaliezhi.com/"/>
-  <updated>2020-05-12T16:32:50.040Z</updated>
+  <updated>2020-05-30T04:04:22.522Z</updated>
   <id>https://zhaliezhi.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://zhaliezhi.com/posts/d87f7e0c/"/>
+    <id>https://zhaliezhi.com/posts/d87f7e0c/</id>
+    <published>2020-05-30T04:03:56.000Z</published>
+    <updated>2020-05-30T04:04:22.522Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>test</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css&quot;&gt;&lt;p&gt;test&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>「不动声色」播客托管迁移记</title>
