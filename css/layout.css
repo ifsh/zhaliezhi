@@ -1,11 +1,10 @@
 #container {
   max-width: 980px;
-  margin: 90px auto 75px;
+  margin: 90px 180px 30px;
   padding: 0 15px; }
-  @media screen and (max-width: 600px) {
+  @media screen and (max-width: 1024px) {
     #container {
-      margin-top: 20px;
-      margin-bottom: 20px; } }
+      margin: 20px 0px; } }
 
 #panel {
   background-color: white; }
