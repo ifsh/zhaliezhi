@@ -247,7 +247,7 @@ body {
     .article > .content h1, .article > .content h2, .article > .content h3, .article > .content h4, .article > .content h5 {
       font-size: 17px;
       font-weight: 600;
-      line-height: 40px;
+      line-height: 30px;
       margin-bottom: 15px; }
     .article > .content p {
       font-size: 15px;
