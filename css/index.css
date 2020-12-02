@@ -295,7 +295,8 @@ body {
     .article > .content blockquote {
       border-left: 4px solid #ddd;
       color: #7a7a7a;
-      border-left: 5px solid #ccc;
+      background-color: #FFFFFF;
+      border-left: 4px solid #0FA0CE;
       padding-left: 15px;
       font-size: 16px;
       margin-bottom: 15px; }
